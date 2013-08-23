@@ -8,3 +8,9 @@ The go-to-market strategy is purely through advertising and word of mouth.
 
 
 
+Resources for conducting Market Research
+---
+
+- Reddit
+- ActiveRain
+- BiggerPockets
